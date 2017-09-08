@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E9D45AFF1AF00659000F6CA7"
                BuildableName = "BrightFutures.framework"
-               BlueprintName = "BrightFutures-Mac"
+               BlueprintName = "BrightFutures"
                ReferencedContainer = "container:BrightFutures.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,8 +29,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E9D45B091AF00659000F6CA7"
-               BuildableName = "BrightFutures-MacTests.xctest"
-               BlueprintName = "BrightFutures-MacTests"
+               BuildableName = "BrightFuturesTests.xctest"
+               BlueprintName = "BrightFuturesTests"
                ReferencedContainer = "container:BrightFutures.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -40,6 +40,7 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      language = ""
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
          <TestableReference
@@ -47,8 +48,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E9D45B091AF00659000F6CA7"
-               BuildableName = "BrightFutures-MacTests.xctest"
-               BlueprintName = "BrightFutures-MacTests"
+               BuildableName = "BrightFuturesTests.xctest"
+               BlueprintName = "BrightFuturesTests"
                ReferencedContainer = "container:BrightFutures.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -58,7 +59,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E9D45AFF1AF00659000F6CA7"
             BuildableName = "BrightFutures.framework"
-            BlueprintName = "BrightFutures-Mac"
+            BlueprintName = "BrightFutures"
             ReferencedContainer = "container:BrightFutures.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -69,6 +70,7 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      language = ""
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
       ignoresPersistentStateOnLaunch = "NO"
@@ -80,7 +82,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E9D45AFF1AF00659000F6CA7"
             BuildableName = "BrightFutures.framework"
-            BlueprintName = "BrightFutures-Mac"
+            BlueprintName = "BrightFutures"
             ReferencedContainer = "container:BrightFutures.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -98,7 +100,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E9D45AFF1AF00659000F6CA7"
             BuildableName = "BrightFutures.framework"
-            BlueprintName = "BrightFutures-Mac"
+            BlueprintName = "BrightFutures"
             ReferencedContainer = "container:BrightFutures.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
